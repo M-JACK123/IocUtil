@@ -1,8 +1,11 @@
 # IocUtil
 一个使用ioc原理简化findviewbyid和点击事件的框架
 使用方法
-package com.cplus.myapplication;
 
+
+
+
+package com.cplus.myapplication;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
